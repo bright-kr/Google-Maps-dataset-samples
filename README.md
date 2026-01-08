@@ -2,7 +2,7 @@
 
 <h2>1001개의 Google Maps 비즈니스 샘플 データセット</h2>
 
-![Google Maps dataset header](https://github.com/luminati-io/Google-Maps-dataset-samples/blob/main/google-maps-datasets.PNG)
+![Google Maps dataset header](https://github.com/bright-kr/Google-Maps-dataset-samples/blob/main/google-maps-datasets.PNG)
 
 1000개 이상의 비즈니스를 포함하는 Google Maps データセット 샘플입니다. データセット는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
